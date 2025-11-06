@@ -8,6 +8,7 @@ A minimal, versioned data product based on NASA’s public Meteorite Landings da
 - **Schema**: see `metadata/schema.md`  
 - **Provenance**: raw source from NASA Open Data (dataset id gh4g-9sfh)
 - **Link**: use this URL to fetch the current dataset: https://raw.githubusercontent.com/MacG70/meteorite-impact-data-product/refs/heads/main/data/raw/meteorites_raw_2025-11-06.csv
+- **Curated Link**: use this URL to access the curated data from an HTTP endpoint: https://raw.githubusercontent.com/MacG70/meteorite-impact-data-product/refs/heads/main/data/curated/meteorites_curated_2025-11-06.csv
 
 ## Update cadence
 Ad hoc for this demo. Replace with weekly or monthly if you automate later.
