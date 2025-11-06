@@ -1,1 +1,20 @@
-# meteorite-impact-data-product
+# Meteorite Impact Data Product
+
+## Purpose
+A minimal, versioned data product based on NASA’s public Meteorite Landings dataset. This repo provides raw source, a curated output, and clear metadata so others can reliably consume the data.
+
+## Interface (what consumers should use)
+- **Curated CSV**: `data/curated/meteorites_curated_latest.csv`  
+- **Schema**: see `metadata/schema.md`  
+- **Provenance**: raw source from NASA Open Data (dataset id gh4g-9sfh)
+
+## Update cadence
+Ad hoc for this demo. Replace with weekly or monthly if you automate later.
+
+## Contacts
+- Owner: <your name or team>
+- Issues: use GitHub Issues in this repo
+
+## License
+- Data: NASA public domain (source attribution recommended)
+- This repo’s packaging, docs, and transformations: CC BY 4.0
