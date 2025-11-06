@@ -25,3 +25,8 @@ Ad hoc for this demo. Replace with weekly or monthly if you automate later.
 - [Schema](metadata/schema.md)
 - [Transformations](metadata/transformations.md)
 - [Quality Indicators](metadata/quality.md)
+
+## Visualization
+View interactive dashboard in Power BI:
+[Open Dashboard](https://app.high.powerbigov.us/links/YI2xurXJF-?ctid=ce6c365b-795b-4ca4-8d59-5fc68b58a2be&pbi_source=linkShare)
+
