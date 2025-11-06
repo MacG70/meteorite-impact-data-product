@@ -19,3 +19,9 @@ Ad hoc for this demo. Replace with weekly or monthly if you automate later.
 ## License
 - Data: NASA public domain (source attribution recommended)
 - This repo’s packaging, docs, and transformations: CC BY 4.0
+
+## Metadata
+- [Source](metadata/source.md)
+- [Schema](metadata/schema.md)
+- [Transformations](metadata/transformations.md)
+- [Quality Indicators](metadata/quality.md)
